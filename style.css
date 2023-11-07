@@ -1,0 +1,48 @@
+.black-color{
+    color:red;
+    font-size: large;
+}
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+/* Fonts */
+
+h1{
+    color: white;
+}
+
+h2 {
+    font-size: 20px;
+    color: white;
+}
+
+h3 {
+    color: #F3DE6D;
+    font-size: 40px;
+}
+
+h4{
+    color: white;
+    height: 32px;
+    font-size: 0.5cm;
+    margin-top: 15px;
+
+
+}
+
+h5 {
+    color:white;
+    font-size: 18px;
+}
+
+
+
+
+
+  
+
+  
+
+  
